@@ -7,7 +7,7 @@ plugins {
     kotlin("jvm") version "1.6.21"
     kotlin("plugin.spring") version "1.6.21"
     kotlin("plugin.jpa") version "1.6.21"
-    kotlin("plugin.allopen") version "1.4.32"
+    kotlin("plugin.allopen") version "1.8.22"
 }
 
 group = "com.th0bse"
